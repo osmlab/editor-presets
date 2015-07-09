@@ -1,0 +1,26 @@
+{
+  "name": "editor-presets",
+  "version": "0.0.1",
+  "description": "Common OpenStreetMap editor presets",
+  "main": "presets.json",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/osmlab/editor-presets.git"
+  },
+  "keywords": [
+    "editor",
+    "presets",
+    "openstreetmap"
+  ],
+  "license": "WTFPL",
+  "devDependencies": {
+    "lodash": "~3.10.0",
+    "glob": "~3.1.21",
+    "js-yaml": "~3.3.1",
+    "jsonschema": "~0.3.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "engineStrict": true
+}

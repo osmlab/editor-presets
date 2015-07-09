@@ -1,0 +1,15 @@
+{
+    "geometry": [
+        "point",
+        "area"
+    ],
+    "fields": [
+        "fee",
+        "access_simple"
+    ],
+    "terms": ["cavern","hollow","grotto","shelter","cavity"],
+    "tags": {
+        "natural": "cave_entrance"
+    },
+    "name": "Cave Entrance"
+}

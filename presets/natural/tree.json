@@ -1,0 +1,17 @@
+{
+    "fields": [
+        "leaf_type",
+        "leaf_cycle",
+        "denotation"
+    ],
+    "icon": "park",
+    "geometry": [
+        "point",
+        "vertex"
+    ],
+    "terms": [],
+    "tags": {
+        "natural": "tree"
+    },
+    "name": "Tree"
+}

@@ -1,0 +1,12 @@
+{
+    "fields": [
+        "landuse"
+    ],
+    "geometry": [
+        "area"
+    ],
+    "tags": {
+        "landuse": "*"
+    },
+    "name": "Landuse"
+}
