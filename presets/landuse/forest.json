@@ -1,0 +1,17 @@
+{
+    "icon": "park2",
+    "fields": [
+        "leaf_type",
+        "leaf_cycle"
+    ],
+    "geometry": [
+        "area"
+    ],
+    "tags": {
+        "landuse": "forest"
+    },
+    "terms": [
+        "tree"
+    ],
+    "name": "Forest"
+}

@@ -1,0 +1,17 @@
+{
+    "icon": "railway-light-rail",
+    "geometry": [
+        "line"
+    ],
+    "tags": {
+        "railway": "tram"
+    },
+    "fields": [
+        "structure",
+        "gauge",
+        "electrified",
+        "service_rail"
+    ],
+    "terms": ["streetcar"],
+    "name": "Tram"
+}

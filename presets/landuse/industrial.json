@@ -1,0 +1,11 @@
+{
+    "icon": "industrial",
+    "geometry": [
+        "area"
+    ],
+    "tags": {
+        "landuse": "industrial"
+    },
+    "terms": [],
+    "name": "Industrial Area"
+}

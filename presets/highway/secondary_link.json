@@ -1,0 +1,24 @@
+{
+    "icon": "highway-secondary-link",
+    "fields": [
+        "oneway",
+        "maxspeed",
+        "structure",
+        "access",
+        "surface",
+        "ref",
+        "cycleway"
+    ],
+    "geometry": [
+        "line"
+    ],
+    "tags": {
+        "highway": "secondary_link"
+    },
+    "terms": [
+        "ramp",
+        "on ramp",
+        "off ramp"
+    ],
+    "name": "Secondary Link"
+}
